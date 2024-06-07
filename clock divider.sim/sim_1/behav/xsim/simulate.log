@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+At time                    0, control = 00, clock_out = x
+At time                 2000, control = 01, clock_out = x
+At time                42000, control = 01, clock_out = 0
+At time                52000, control = 10, clock_out = 0
+At time               152000, control = 11, clock_out = 0
+$stop called at time : 172 ns : File "E:/Projects/Vivado/clock divider/clock divider.srcs/sim_1/new/clock_div_tb.v" Line 58

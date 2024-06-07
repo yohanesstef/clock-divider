@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+E:/Projects/Vivado/clock divider/clock divider.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1717709248,verilog,,E:/Projects/Vivado/clock divider/clock divider.srcs/sources_1/new/clock_div.v,,clk_wiz_0,,,../../../../clock divider.ip_user_files/ipstatic,,,,,
+E:/Projects/Vivado/clock divider/clock divider.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1717709248,verilog,,E:/Projects/Vivado/clock divider/clock divider.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../clock divider.ip_user_files/ipstatic,,,,,
+E:/Projects/Vivado/clock divider/clock divider.sim/sim_1/behav/xsim/glbl.v,1697210496,verilog,,,,glbl,,,,,,,,
+E:/Projects/Vivado/clock divider/clock divider.srcs/sim_1/new/clock_div_tb.v,1717715982,verilog,,,,clock_div_tb,,,../../../../clock divider.ip_user_files/ipstatic,,,,,
+E:/Projects/Vivado/clock divider/clock divider.srcs/sources_1/new/clock_div.v,1717711522,verilog,,E:/Projects/Vivado/clock divider/clock divider.srcs/sim_1/new/clock_div_tb.v,,clock_div,,,../../../../clock divider.ip_user_files/ipstatic,,,,,
